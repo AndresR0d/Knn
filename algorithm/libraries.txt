@@ -1,0 +1,8 @@
+pip list
+
+python version = 3.8.6
+
+pip install numpy
+pip install pandas
+pip install sklearn / pip install scikit-learn
+pip install matplotlib
